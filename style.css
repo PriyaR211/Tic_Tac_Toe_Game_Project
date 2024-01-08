@@ -1,0 +1,98 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: #609192;
+    text-align: center;
+}
+#header{
+    margin-top: 8px;
+}
+.container{
+    /* border:2px solid red; */
+    height:80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    /* border:2px solid blue; */
+    height:80vh;
+    width:22vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card1{
+    font-size: 2rem;
+    font-weight:lighter;
+}
+.game{
+    /* border:2px solid blue; */
+    height:75vh;
+    width:50vw;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:.5em;
+}
+
+.box{
+    height:31%;
+    width:27%;
+    border-radius: 12px;
+    border-style: none;
+    box-shadow: 0 1px 2px black;
+    font-size: 3.4rem;
+    color:#b60606;
+    background-color:#e2e7e7;
+}
+#new-game{
+    font-size: 1.2rem;
+    background-color: black;
+    color: aliceblue;
+    padding: 14px;
+    border-radius: 12px;
+    border-style: none;
+}
+
+#reset-btn{
+    margin-top:11px;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    background-color: black;
+    color: aliceblue;
+    padding: 14px;
+    border-radius: 12px;
+    border-style: none;
+}
+
+.msg-container{
+    /* border:2px solid red; */
+    height:90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:15px;
+}
+
+#msg{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.hide{
+    display: none;
+}
+
+
+.box:hover{
+    background-color: #ddf9dd;
+    background-color: #a3eea3;
+    
+}
+
