@@ -10,11 +10,6 @@ Created a Tic Tac Toe Game Project, Which considers all posibilities of winning 
 
 
 
-![normal play](https://github.com/PriyaR211/Tic_Tac_Toe_Game_Project/assets/115357641/cf03bdf6-6e51-4193-aeaa-1576446b9b56)
-
-
-
-
 ![win match](https://github.com/PriyaR211/Tic_Tac_Toe_Game_Project/assets/115357641/1fa88a69-0aa3-4f47-883c-8e4e7a773e4a)
 
 
@@ -28,6 +23,7 @@ Created a Tic Tac Toe Game Project, Which considers all posibilities of winning 
 ![win condition](https://github.com/PriyaR211/Tic_Tac_Toe_Game_Project/assets/115357641/31905950-ac7f-4ed1-a770-34e05d074eaf)
 
 
+![normal play](https://github.com/PriyaR211/Tic_Tac_Toe_Game_Project/assets/115357641/cf03bdf6-6e51-4193-aeaa-1576446b9b56)
 
 
 
